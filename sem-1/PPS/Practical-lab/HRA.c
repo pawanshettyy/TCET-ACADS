@@ -19,16 +19,16 @@ int main() {
     
     switch (category) {
         case 1:
-            allowance = 0.30 * salary; // 30% for category 1
+            allowance = 0.30 * salary; 
             break;
         case 2:
-            allowance = 0.20 * salary; // 20% for category 2
+            allowance = 0.20 * salary; 
             break;
         case 3:
-            allowance = 0.10 * salary; // 10% for category 3
+            allowance = 0.10 * salary; 
             break;
         case 4:
-            allowance = 0.05 * salary; // 5% for category 4
+            allowance = 0.05 * salary; 
             break;
         default:
             printf("Invalid category! Please enter a category between 1 and 4.\n");
