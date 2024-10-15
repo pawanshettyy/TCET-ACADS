@@ -4,7 +4,7 @@
 3. Input the values of x and n from the user.
 4. loop for i from 2 to n
 5. result = pow(x,i)
-6. x raised to i is result
+6. Print result
 7. End
 */
 
