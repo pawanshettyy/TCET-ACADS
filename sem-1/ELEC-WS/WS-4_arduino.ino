@@ -21,3 +21,4 @@ void loop(){
     digitalWrite(ledPin, LOW);
     Serial.print("Its Bright, Turn off the LED:");
   }
+}
